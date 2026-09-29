@@ -1,4 +1,4 @@
-## Detection Scenario 2: Creating A New User Account
+## Scenario 2: Creating A New User Account
 
 ### Simulation
 

@@ -1,4 +1,4 @@
-## Detection Scenario 1: Failed Login Attempts
+## Scenario 1: Failed Login Attempts
 
 ### Simulation
 
